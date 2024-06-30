@@ -1,3 +1,8 @@
+TODO:
+- Wait for https://github.com/spf13/pflag/pull/386
+- Add Enum support: a flag can be of a set of values only
+
+
 [![Build Status](https://travis-ci.org/spf13/pflag.svg?branch=master)](https://travis-ci.org/spf13/pflag)
 [![Go Report Card](https://goreportcard.com/badge/github.com/spf13/pflag)](https://goreportcard.com/report/github.com/spf13/pflag)
 [![GoDoc](https://godoc.org/github.com/spf13/pflag?status.svg)](https://godoc.org/github.com/spf13/pflag)
